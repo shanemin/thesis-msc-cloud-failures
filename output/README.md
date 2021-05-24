@@ -1,4 +1,4 @@
-### status_sources.odt reference codes
+### status_sources.csv reference codes
 
 | SOURCE                  |CODE|HISTORY_RANGE|
 |-------------------------|----|-------------|
