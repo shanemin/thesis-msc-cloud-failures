@@ -18,6 +18,6 @@
 | updownreport            | 15 | 30d         |
 | cloudharmony            | 16 | 12m         |
 | downinspector           | 17 | 1m          |
-| statusticker            | 18 | most recent |
+| statusticker            | 18 | current     |
 
 
