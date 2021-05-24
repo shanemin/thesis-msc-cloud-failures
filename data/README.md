@@ -1,4 +1,4 @@
-### sources.odt reference codes
+### status_sources.odt reference codes
 
 | SOURCE                  |CODE|HISTORY_RANGE|
 |-------------------------|----|-------------|
@@ -9,7 +9,7 @@
 | istheservicedown        | 4  | 24h         |
 | isitdownrightnow        | 5  | 3m          |
 | downhunter              | 6  | 1m          |
-| statusgator             | 7  | many years  |
+| statusgator             | 7  | years       |
 | netflixdown             | 9  | current     |
 | downrightnow            | 10 | 24h         |
 | downforeveryoneorjustme | 11 | current     |
