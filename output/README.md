@@ -5,6 +5,10 @@
 ### topsites_alexa.csv data:
  - from April 24, 2021 -> May 24, 2021
  - The 1 month rank is calculated using a combination of average daily visitors and pageviews over the past month. The site with the highest combination of visitors and pageviews is ranked #1
+ 
+### topsites_moz.csv data:
+ - taken May 24, 2021 (freshness unknown)
+ - We’ve listed the top 500 most popular sites in the world based on Domain Authority, a link-based metric that models how Google ranks websites. Each site is listed by the number of other websites that link to them, along with a Domain Authority score.
 
 ### status_sources.csv reference codes
 
