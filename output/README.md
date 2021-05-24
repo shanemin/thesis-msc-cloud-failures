@@ -1,3 +1,11 @@
+### topsites_similarweb.csv data: 
+ - fresh as of April 01, 2021
+ - Traffic rank of site, as compared to all other sites in the world (#1 being the site with the most traffic in the world)
+
+### topsites_alexa.csv data:
+ - from April 24, 2021 -> May 24, 2021
+ - The 1 month rank is calculated using a combination of average daily visitors and pageviews over the past month. The site with the highest combination of visitors and pageviews is ranked #1
+
 ### status_sources.csv reference codes
 
 | SOURCE                  |CODE|HISTORY_RANGE|

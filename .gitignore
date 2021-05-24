@@ -1,2 +1,3 @@
 data/*.sqsh
 scripts/.ipynb_checkpoints/
+*lock.*
