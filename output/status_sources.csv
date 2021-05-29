@@ -1,39 +1,39 @@
-"SERVICE","NOTE","SELF_STATUS_PAGE","SELF_STATUS_SOURCE","SOURCES","ALEXA_POS","MOZ_POS","RANKRANGER_POS","AHREFS_POS","SIMILARWEB_POS_CAT1","SIMILARWEB_POS_CAT2","SIMILARWEB_ALL"
-"lyft",,"N","-","0,1,2,3",,,,,"46 Travel-and-tourism","46 health",
+"SERVICE","NOTE","SELF_STATUS_PAGE","SELF_STATUS_SOURCE","SOURCES","ALEXA_POS","MOZ_POS","RANKRANGER_POS","AHREFS_POS","SIMILARWEB_ALL","SIMILARWEB_POS_CAT1","SIMILARWEB_POS_CAT2"
+"lyft",,"N","-","0,1,2,3",,,,,,"46 Travel-and-tourism","46 health"
 "facebook-messenger",,"Y","facebook","0,4,5,3,6,1",,,,,,,
 "trello",,"Y","statuspage","0,7,5,3",,,,,,,
-"netflix",,"Y","netflix","0,5,4,10,1,9",20,195,30,14,"2 arts-and-entertainment",,16
-"facebook",,"Y","facebook","0,7,10,5,4,3,1",6,31,2,2,"2 computers-electronics-and-technology",,3
-"reddit",,"Y","statuspage","0,5,4,11",19,,,20,"10 computers-electronics-and-technology",,19
-"hotmail","live.com","Y","microsoft","0,4,10,5,",18,46,,8,"9 computers-electronics-and-technology",,15
+"netflix",,"Y","netflix","0,5,4,10,1,9",20,195,30,14,16,"2 arts-and-entertainment",
+"facebook",,"Y","facebook","0,7,10,5,4,3,1",6,31,2,2,3,"2 computers-electronics-and-technology",
+"reddit",,"Y","statuspage","0,5,4,11",19,,,20,19,"10 computers-electronics-and-technology",
+"hotmail","live.com","Y","microsoft","0,4,10,5",18,46,,8,15,"9 computers-electronics-and-technology",
 "ning",,"Y","ning","5,10,2,1",,,,,,,
 "bitbucket",,"Y","statuspage","0,7,5",,,,,,,
-"paypal",,"Y","paypal","0,4,5,7,1",,75,,63,"1 finance",,
+"paypal",,"Y","paypal","0,4,5,7,1",,75,,63,,"1 finance",
 "confluence",,"Y","statuspage","0,7,13",,,,,,,
 "opsgenie",,"Y","statuspage","7,13",,,,,,,
 "blogger",,"Y","googleblog","0,5,10,1",,7,,,,,
 "snapchat",,"N","-","0,5,4,3",,490,,,,,
-"github",,"Y","github","0,5,7",,35,75,,"34 computers-electronics-and-technology",,
-"linkedin",,"Y","statuspage","0,5,2,10,14",,15,12,31,"13 computers-electronics-and-technology",,22
-"twitter",,"Y","statuspage","0,5,4,10,11,3",38,89,,4,"3 computers-electronics-and-technology",,4
-"whatsapp",,"N","-","0,5,1,3,4",,62,25,5,"7 computers-electronics-and-technology",,11
-"apple-servers","apple.com","Y","apple",0,,3,6,23,"31 computers-electronics-and-technology",,
+"github",,"Y","github","0,5,7",,35,75,,,"34 computers-electronics-and-technology",
+"linkedin",,"Y","statuspage","0,5,2,10,14",,15,12,31,22,"13 computers-electronics-and-technology",
+"twitter",,"Y","statuspage","0,5,4,10,11,3",38,89,,4,4,"3 computers-electronics-and-technology",
+"whatsapp",,"N","-","0,5,1,3,4",,62,25,5,11,"7 computers-electronics-and-technology",
+"apple-servers","apple.com","Y","apple",0,,3,6,23,,"31 computers-electronics-and-technology",
 "slack",,"Y","slack","0,5",,,,,,,
 "typepad",,"N","-","10,5,1,2",,,,,,,
 "skype",,"Y","microsoft","0,5,4,3",,478,,,,,
-"tumblr",,"N","-","0,5,1",,,,,"42 computers-electronics-and-technology",,
+"tumblr",,"N","-","0,5,1",,,,,,"42 computers-electronics-and-technology",
 "yahoomail",,"N","-","0,10,4,5,11,3",,413,,30,,,
 "jira-service-desk",,"Y","statuspage","0,7",,,,,,,
 "zynga",,"N","-","0,5,2,3,15",,,,,,,
-"youtube",,"N","-","0,10,5,11,4",2,2,,1,"1 arts-and-entertainment",,2
+"youtube",,"N","-","0,10,5,11,4",2,2,,1,2,"1 arts-and-entertainment",
 "jira-core",,"Y","statuspage","0,7",,,,,,,
-"gmail",,"Y","google","0,10,5,4,3,",,328,,,,,
+"gmail",,"Y","google","0,10,5,4,3",,328,,,,,
 "jira-software",,"Y","statuspage","0,7",,,,,,,
-"amazon",,"Y","amazon","0,4,5,7,16",11,25,3,6,"1 e-commerce-and-shopping",,13
-"spotify",,"N","-","0,4,5,3,1,14",,179,74,67,"7 arts-and-entertainment",,
-"airbnb",,"N","-","0,5,11,3",,376,,,"4 travel-and-tourism","4 health",
+"amazon",,"Y","amazon","0,4,5,7,16",11,25,3,6,13,"1 e-commerce-and-shopping",
+"spotify",,"N","-","0,4,5,3,1,14",,179,74,67,,"7 arts-and-entertainment",
+"airbnb",,"N","-","0,5,11,3",,376,,,,"4 travel-and-tourism","4 health"
 "foursquare",,"Y","statuspage","10,5,1",,,,,,,
-"pinterest",,"N","-","0,5,1,17,3,4",,111,7,9,"15 computers-electronics-and-technology",,24
+"pinterest",,"N","-","0,5,1,17,3,4",,111,7,9,24,"15 computers-electronics-and-technology",
 "jira-align",,"Y","statuspage","7,18",,,,,,,
-"instagram",,"Y","facebook","0,5,1,4,3",23,252,,7,"4 computers-electronics-and-technology",,5
+"instagram",,"Y","facebook","0,5,1,4,3",23,252,,7,5,"4 computers-electronics-and-technology",
 "livejournal",,"Y","livejournal","5,10,2,1",,363,,,,,
