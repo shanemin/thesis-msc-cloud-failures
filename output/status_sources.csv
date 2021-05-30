@@ -1,5 +1,5 @@
 "SERVICE","NOTE","SELF_STATUS_PAGE","SELF_STATUS_SOURCE","SOURCES","ALEXA_POS","MOZ_POS","RANKRANGER_POS","AHREFS_POS","SIMILARWEB_ALL","SIMILARWEB_POS_CAT1","SIMILARWEB_POS_CAT2"
-"lyft",,"N","-","0,1,2,3",,,,,,"46 Travel-and-tourism","46 health"
+"lyft",,"N","-","0,1,2,3",,,,,,"46 travel-and-tourism,health","46 health"
 "facebook-messenger",,"Y","facebook","0,4,5,3,6,1",,,,,,,
 "trello",,"Y","statuspage","0,7,5,3",,,,,,,
 "netflix",,"Y","netflix","0,5,4,10,1,9",20,195,30,14,16,"2 arts-and-entertainment",
@@ -31,7 +31,7 @@
 "jira-software",,"Y","statuspage","0,7",,,,,,,
 "amazon",,"Y","amazon","0,4,5,7,16",11,25,3,6,13,"1 e-commerce-and-shopping",
 "spotify",,"N","-","0,4,5,3,1,14",,179,74,67,,"7 arts-and-entertainment",
-"airbnb",,"N","-","0,5,11,3",,376,,,,"4 travel-and-tourism","4 health"
+"airbnb",,"N","-","0,5,11,3",,376,,,,"4 travel-and-tourism,health","4 health"
 "foursquare",,"Y","statuspage","10,5,1",,,,,,,
 "pinterest",,"N","-","0,5,1,17,3,4",,111,7,9,24,"15 computers-electronics-and-technology",
 "jira-align",,"Y","statuspage","7,18",,,,,,,
