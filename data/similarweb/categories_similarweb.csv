@@ -1,26 +1,3 @@
-category,html_downloaded
-all,y
-arts-and-entertainment,y
-business-and-consumer-services,y
-community-and-society,y
-computers-electronics-and-technology,y
-e-commerce-and-shopping,y
-finance,y
-food-and-drink,y
-gambling,y
-games,y
-health,y
-heavy-industry-and-engineering,y
-hobbies-and-leisure,y
-home-and-garden,y
-jobs-and-career,y
-law-and-government,y
-lifestyle,y
-news-and-media,y
-pets-and-animals,y
-reference-materials,y
-science-and-education,y
-sports,y
-travel-and-tourism,y
-vehicles,y
-adult,y
+version https://git-lfs.github.com/spec/v1
+oid sha256:94939a97a8b5d4e16915bb80ad422b0b81ffc6b058d4adeef3f272df8f7d0ffd
+size 488
